@@ -1,0 +1,14 @@
+site_name: Fosshost Docs
+theme:
+  name: material
+  logo: /assets/favicon.png
+  favicon: /assets/favicon.png
+  palette:
+    primary: red
+
+repo_name: public/wiki
+repo_url: https://github.com/fosshostorg/wiki
+edit_uri: https://github.com/fosshostorg/wiki/edit/main/docs/
+markdown_extensions:
+  - toc:
+      permalink: true
