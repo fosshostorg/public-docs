@@ -1,4 +1,4 @@
-# Application Form Guidance and Notes
+# Application Form Eligibility Criteria and Guidance
 In order to apply for Fosshost services, you first need to make sure that you are eligible. The eligibility rules are detailed below. Only apply once you have read the Application Form Guidance and Notes.  If you feel that are you eligible after reading, then you can apply on our [website](https://fosshost.org).
 
 If you are unsure if you are eligible, you can [contact](https://fosshost.org/contact) us to discuss your project or requirements. We will always be happy to learn more about your project or idea. 
