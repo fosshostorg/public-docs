@@ -6,9 +6,12 @@ theme:
   palette:
     primary: red
 
-repo_name: public/wiki
-repo_url: https://github.com/fosshostorg/wiki
-edit_uri: https://github.com/fosshostorg/wiki/edit/main/docs/
+repo_name: fosshostorg/public-docs
+repo_url: https://github.com/fosshostorg/fosshostorg/public-docs
+edit_uri: https://github.com/fosshostorg/fosshostorg/public-docs/edit/main/docs/
 markdown_extensions:
   - toc:
       permalink: true
+  - md_in_html
+copyright: Content is available under the Public Domain, by Fosshost.
+
