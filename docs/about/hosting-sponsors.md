@@ -19,7 +19,7 @@ Fosshost is incredibly grateful and thankful for all the donations of infrastruc
 ## Fosshost AArch64 Hosting Sponsors
 
 
-Further details regarding [AArch64.com](AArch64.com) sponsors (a part of the Fosshost Initiative) can be found at [https://aarch64.com/sponsors](https://aarch64.com/sponsors) 
+Further details regarding [AArch64.com](https://AArch64.com) sponsors (a part of the Fosshost Initiative) can be found at [https://aarch64.com/sponsors](https://aarch64.com/sponsors) 
 
 ## Ancillary Project Supporters 
 
