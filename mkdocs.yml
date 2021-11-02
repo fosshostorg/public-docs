@@ -7,7 +7,7 @@ theme:
     primary: red
 
 repo_name: fosshostorg/public-docs
-repo_url: https://github.com/fosshostorg/fosshostorg/public-docs
+repo_url: https://github.com/fosshostorg/public-docs
 edit_uri: https://github.com/fosshostorg/public-docs/edit/main/docs/
 markdown_extensions:
   - toc:
