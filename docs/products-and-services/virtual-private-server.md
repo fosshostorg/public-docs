@@ -24,7 +24,7 @@ We support the most common operating systems:
 *   Rocky Linux;
 *   Debian;
 *   Ubuntu;
-*   ArchLInux;
+*   ArchLinux;
 *   FreeBSD
 
 If the operating system you are looking to use is not listed, we support custom ones. You will need to specify your OS preference during the application form by providing a URL to the ISO file. Please note that if you are thinking of using a non-standard “exotic” operating system, we will be limited in what support we can offer. There are many, and we do not know them all well.

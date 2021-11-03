@@ -26,4 +26,4 @@ Next, you will be asked to create and confirm a passphrase for the key (highly r
 > Enter passphrase (empty for no passphrase):   
 > Enter same passphrase again:
 
-This will generate two files, by default called id\_rsa and id\_rsa.pub. Copy and paste the contents of the **.pub** file, typically id\_rsa.pub, into your application.
+This will generate two files, by default called `id_rsa` and `id_rsa.pub`. Copy and paste the contents of the **.pub** file, typically `id_rsa.pub`, into your application.

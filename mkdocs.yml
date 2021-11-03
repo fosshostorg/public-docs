@@ -15,6 +15,8 @@ markdown_extensions:
   - md_in_html
 copyright: Content is available under the Public Domain, by Fosshost.
 plugins:
+    # NOTE: Because of an upstream bug, redirects won't work on Windows.
+    # Luckily, it works perfectly on other filesystems and redirects aren't a critical feature
     - redirects:
         redirect_maps:
             # Products and services
@@ -35,7 +37,7 @@ plugins:
             # General
             'en/home/application.md': 'general/application.md'
             'en/home/getting-started.md': 'general/getting-started.md'
-            'en/home/how-you-can-help.md': 'general/how-you-can-help.md'
+            'en/home/how-you-can-help.md': 'general/how-can-you-help.md'
             'en/home/regions.md': 'general/regions.md'
             'en/home/what-do-we-expect.md': 'general/what-do-we-expect.md'
             # Howtos
