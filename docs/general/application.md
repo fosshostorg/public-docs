@@ -3,7 +3,8 @@ In order to apply for Fosshost services, you first need to make sure that you ar
 
 If you are unsure if you are eligible, you can [contact](https://fosshost.org/contact) us to discuss your project or requirements. We will always be happy to learn more about your project or idea. 
 
-> **Reading this page is mandatory** before applying, to ensure that you are both eligible and prepared to answer all the questions on our application form. If we feel that you have not read this page before applying, we will reject your application.  
+!!! important 
+    **Reading this page is mandatory** before applying, to ensure that you are both eligible and prepared to answer all the questions on our application form. If we feel that you have not read this page before applying, we will reject your application.  
 
 ## Eligibility
 - You have an open-source project and/or related community site(s) that needs hosting
@@ -21,7 +22,8 @@ Please keep in mind that our standard processing time for new applications is 7 
 
 Our decision is final and just because you meet the eligibility criteria does not necessarily mean that you will be accepted. 
 
-> We appreciate projects who make the effort to contact us regarding their application before applying because it allows us to talk with you, get to know you and build what will hopefully be a long-lasting relationship.
+!!! note
+    We appreciate projects who make the effort to contact us regarding their application before applying because it allows us to talk with you, get to know you and build what will hopefully be a long-lasting relationship.
 
 ## Examples of projects we do not help
 Whilst there are many projects we can and do help, there are many others we cannot help. We provide below some examples of projects we cannot help, not but limited to:

@@ -7,4 +7,3 @@ You can access the documentation using the left navigation bar or search facilit
 The wiki can only be edited by Fosshost contributors. However, if you have any feedback, please add a comment to the page in question and one of our moderators will review it.
 
 If you are interested in contributing to our wiki, please get in [touch](/about/support)!
-

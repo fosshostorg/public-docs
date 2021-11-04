@@ -26,8 +26,13 @@ markdown_extensions:
   - toc:
       permalink: true
   - md_in_html
+  - admonition
+  - pymdownx.highlight
+  - pymdownx.superfences 
+
 copyright: Content is available under the Public Domain, by Fosshost.
 plugins:
+    - search
     # NOTE: Because of an upstream bug, redirects won't work on Windows.
     # Luckily, it works perfectly on other filesystems and redirects aren't a critical feature
     - redirects:

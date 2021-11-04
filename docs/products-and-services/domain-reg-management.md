@@ -13,15 +13,16 @@ Fosshost uses different domain name registrars, depending on cost.
 
 You can apply for a domain name via our [application form](https://fosshost.org/apply). Please [check](https://gandi.net) that your domain is available before applying.
 
-Note we only accept domain names with the following TLDs: 
+!!! note
+    Note we only accept domain names with the following TLDs: 
 
-*   .com
-*   .org
-*   .net
-*   .tech
-*   .website
-*   .io
-*   .info
+    *   .com
+    *   .org
+    *   .net
+    *   .tech
+    *   .website
+    *   .io
+    *   .info
 
 ## DNS Hosting and Nameservers
 
