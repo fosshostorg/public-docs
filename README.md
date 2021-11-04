@@ -1,5 +1,5 @@
 # Fosshost Public Docs
-These are the public docs currently hosted at https://beta.docs.fosshost.org.
+These are the public docs currently hosted at https://docs.fosshost.org.
 ## Running locally
 Install the dependencies
 ```bash
