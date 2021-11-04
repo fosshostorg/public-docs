@@ -55,7 +55,7 @@ plugins:
             # General
             'en/home/application.md': 'general/application.md'
             'en/home/getting-started.md': 'general/getting-started.md'
-            'en/home/how-you-can-help.md': 'general/how-can-you-help.md'
+            'en/home/how-can-you-help.md': 'general/how-you-can-help.md'
             'en/home/regions.md': 'general/regions.md'
             'en/home/what-do-we-expect.md': 'general/what-do-we-expect.md'
             # Howtos
