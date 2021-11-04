@@ -4,7 +4,20 @@ theme:
   logo: /assets/favicon.png
   favicon: /assets/favicon.png
   palette:
-    primary: red
+    - media: "(prefers-color-scheme: light)" 
+      scheme: default
+      primary: red
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)" 
+      scheme: slate
+      primary: red
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+
 
 repo_name: fosshostorg/public-docs
 repo_url: https://github.com/fosshostorg/public-docs
