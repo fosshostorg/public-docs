@@ -3,6 +3,8 @@ theme:
   name: material
   logo: /assets/favicon.png
   favicon: /assets/favicon.png
+  features: 
+      - navigation.instant
   palette:
     - media: "(prefers-color-scheme: light)" 
       scheme: default
