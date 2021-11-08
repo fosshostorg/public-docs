@@ -1,6 +1,6 @@
 # Finances
 
-Fosshost is committed to transparency and providing the general public with a view of how we operate financially.  This includes full itemisation of credits and debit transactions, such as donations and general expenditure.   We do omit sensitive information from our bank statements including the names of any individual for data protection, or where a donor, has requested that the donation is anonymous.  
+Fosshost is committed to transparency and providing the public with a view of how we operate financially. This includes full itemisation of credits and debit transactions, such as donations and general expenditure. We do omit sensitive information from our bank statements including the names of any individual for data protection, or where a donor, has requested that the donation is anonymous.  
 
 Further, we publish the minutes of our monthly board meets and annual reports here.
 
