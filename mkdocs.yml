@@ -3,8 +3,8 @@ theme:
   name: material
   logo: /assets/favicon.png
   favicon: /assets/favicon.png
-  features: 
-      - navigation.instant
+  features:
+    - navigation.instant
   palette:
     - media: "(prefers-color-scheme: light)" 
       scheme: default
@@ -31,6 +31,13 @@ markdown_extensions:
   - admonition
   - pymdownx.highlight
   - pymdownx.superfences 
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+
 
 copyright: Content is available under the Public Domain, by Fosshost.
 plugins:

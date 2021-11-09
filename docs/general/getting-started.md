@@ -7,7 +7,7 @@ Production services are services that we allow you to apply for via our [applica
 - x86 Virtual Private Server;
 - AArch64 Virtual Private Server;
 - Domain Name Services / DNS;
-- Mirrors-as-a-Service (available for package mirrors, operating systems, repositories, documentation, static assets, etc);
+- Mirrors-as-a-Service (available for package mirrors, operating systems, repositories, documentation, static assets, etc.);
 
 You can browse on the left-hand navigation bar through each of the above services in more detail.
 
