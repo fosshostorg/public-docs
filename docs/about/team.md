@@ -72,7 +72,7 @@ We have a number of core developers who report directly into a CDO.  These indi
 
 ### Aman Harwara (he/him)
 
-### Jeeho Ahn (she/her)
+### Jeeho Ahn (he/him)
 
 ### Ayane Satomi (he/him)
 
