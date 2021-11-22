@@ -21,7 +21,6 @@ You can apply for a domain name via our [application form](https://fosshost.org/
     *   .net
     *   .tech
     *   .website
-    *   .io
     *   .info
 
 ## DNS Hosting and Nameservers
