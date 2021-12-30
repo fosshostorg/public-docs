@@ -12,7 +12,7 @@ In the first instance please always [submit](https://support.fossho.st) a suppor
 *   [Discord](https://discord.gg/C6VNFSHe4n)
 *   [IRC](https://web.libera.chat/#fosshost)
 *   UK Emergency Telephone Support: +44 (0) 208 154 4278 (call in emergency only)
-*   US Emergency Telephone Support: +001 (415) 610 7165 (call in emergency only)
+*   US Emergency Telephone Support: +1 (415) 610 7165 (call in emergency only)
 
 ## How to check service status
 
