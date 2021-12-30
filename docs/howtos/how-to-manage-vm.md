@@ -15,26 +15,31 @@ You can complete several tasks using the Proxmox interface. These include:
 
 We currently operate ten nodes; you will know your node from your handover email or instance hostname. Below is an example of a node address we operate:
 
-> https://dfwhv0.central.fossho.st
+> https://pve01-odg1.central.fossho.st
 
 The node's name scheme is based on the [IATA airport codes](https://en.wikipedia.org/wiki/IATA_airport_code), the type of service provided and the node number. Using the example above:
 
-> dfw = Dallas/Fort Worth International Airport  
-> hv = Hypervisor  
-> 0 = First server on that location/provider/facility
+> pve = Proxmox Virtual Environment   
+> 01 = Many locations have more than one hypervisor, this is hv #1
+> odg1 = Odgen, Utah datacenter number 1
 
 Current nodes:
 
-*   lonhv0 (legacy node1)
-*   nqthv0 (legacy node2)
-*   chihv0 (legacy node3)
-*   laxhv0 (legacy node4)
-*   laxhv1 (legacy node5)
-*   amshv0 (legacy node7)
-*   amshv1 (legacy node8)
-*   dfwhv0 (legacy node 9, 10, and 12)
-*   pdxhv0 (legacy node11)
-*   dfwhv1
+*   pve01-lon2 (legacy node1)
+*   pve02-lon2
+*   pve01-lon4
+*   pve01-nqt1 (legacy node2)
+*   pve01-chi1 (legacy node3)
+*   pve01-lax1 (legacy node4)
+*   pve02-lax1 (legacy node5)
+*   pve01-ams1 (legacy node7)
+*   pve01-ams2 (legacy node8)
+*   pve01-dfw1 (legacy node 9, 10, and 12)
+*   pve01-pdx1 (legacy node11)
+*   pve02-dfw1
+*   pve01-odg1
+*   pve02-odg1
+*   pve01-sin1
 
 To achieve a more secure experience, Fosshost uses Multi-Factor Authentication (MFA). We provide it through [Authelia](https://github.com/authelia/authelia). You can use any MFA client on your device to validate your login.
 
