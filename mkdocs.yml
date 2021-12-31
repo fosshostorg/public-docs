@@ -74,5 +74,7 @@ plugins:
             'en/home/how-to-create-ssh-key.md': 'howtos/how-to-create-ssh-key.md'
             'en/home/how-to-lock-down-ssh.md': 'howtos/how-to-lock-down-ssh.md'
             'en/home/how-to-manage-vm.md': 'howtos/how-to-manage-vm.md'
+            # Deleted Pages
+            'howtos/how-to-connect-to-your-virtual-instance.md': 'howtos/how-to-manage-vm.md'
 
 
