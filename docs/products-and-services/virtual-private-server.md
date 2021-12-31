@@ -1,4 +1,4 @@
-# x86 Virtual Private Server (VPS)
+# x86 Virtual Private Server
 
 
 When applying for our services, you can specify your preferred [region](/general/regions). This will typically be chosen on the following basis (this is not prescriptive):
