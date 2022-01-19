@@ -30,11 +30,13 @@ Jonathon is our Executive Director. Whilst his role is not hands-on, he does reg
 
 ## Senior Operational Leads
 
-Fosshost Senior Operational Leads report directly into Corwin Brust (COO) and will typically have a smaller team that report directly into them such as Capability Domain Owners. Overall, Operational Leads form part of the Senior Leadership Team, and typically their roles are prefixed with Chief or Head.  The Operational Leads play an important role in the day to day operations of our organisation. 
+Fosshost Senior Operational Leads report directly into Corwin Brust (COO) and will typically have a smaller team that report directly into them such as Capability Domain Owners. Overall, Operational Leads form part of the Senior Leadership Team.  The Operational Leads play an important role in the day to day operations of our organisation. 
 
-### Nate Sales (he/him), Chief Technology Officer
+### Chris Johnson (he/him), Chief Technology Officer
 
-### Hampton Moore (he/him), Deputy Chief Technology Officer
+### Nate Sales (he/him), Director of Infrastructure
+
+### Hampton Moore (he/him), Senior Techops Lead
 
 ### Alyx Wolcott (he/him), Chief People Officer
 
@@ -103,10 +105,6 @@ I am a computational biologist with a background in chemistry. My research focus
 ### Dr Luis Falcon M.D (he/him)
 
 Luis Falcón, M.D., MSc, holds a degree in Computer Science and Mathematics from the California State University (USA) and in Medicine from IUCS, Buenos Aires (Argentina). He has a Master's degree in Genomics and Medical Genetics from the University of Granada (Spain). Dr Falcon is a social, animal rights and free software activist. He is the founder and president of GNU Solidario, a nonprofit humanitarian organisation focused on the advancement of Social Medicine. Dr Falcon is the author of GNU Health, the award-winning Free/Libre digital health ecosystem. He is a guest speaker at international conferences about Free Software, eHealth and Social Medicine.
-
-### Dr Morgan Lemmer-Webber PhD (she/her)
-
-Morgan Lemmer-Webber is an art historian, avid crafter, and FOSS user and advocate. She holds a PhD in Art History from the University of Wisconsin, Madison (USA). A lifelong exploration of various handcrafts and media inspired her dissertation research on women and textile production in the Roman empire. Morgan is interested in the intersection of FOSS and academia, particularly in digital humanities research. Morgan was also the co-organiser of the ActivityPub Conference (2019 in Prague, 2020 online), which brings together implementors and users of projects created using the ActivityPub protocol for decentralised social networking. She is the co-host of FOSS and Crafts, a podcast about free software, free culture, and making things together.
 
 ### Ariadne Conill (she/her)
 
