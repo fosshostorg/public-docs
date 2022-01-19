@@ -6,7 +6,7 @@ The Fosshost Team consists of The Board of Directors, Senior Leadership Team and
 
 Each volunteer is vitally essential, and we are each of equal importance. We contribute and share decisions collaboratively as much as possible. We are each empowered to contribute in our own unique and individual ways. As a project, we generate educational, academic, scientific, and research opportunities for aspiring individuals who have a passion for technology and drive to improve the open-source landscape. You can join the team by [offering to volunteer](/about/volunteering-opportunities).
 
-![](/assets/fosshost-orgchart-20211030.png)
+![](/assets/fosshost-orgchart-20220119.png)
 
 ## The Board of Directors
 
