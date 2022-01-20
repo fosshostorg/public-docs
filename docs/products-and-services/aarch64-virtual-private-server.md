@@ -28,7 +28,7 @@ Speaking of VPS plans, you can choose anything that suits you if it fits within 
 
 Available VPS plans
 
-You can also choose your desired hostname for your VPS accessing region (currently available only in Dallas, TX, and Maidstone, UK).
+You can also choose your desired hostname for your VPS accessing region (currently available only in Boston, MA, and Maidstone, UK).
 
 After creating and provisioning is done, you will be presented with information on how to access your instance.
 
