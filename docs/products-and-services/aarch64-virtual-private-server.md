@@ -17,7 +17,7 @@ The number of cores you were approved with is called “a budget” that you can
 
 We provide the following operating systems:
 
-*   Debian 10.8
+*   Debian 11.2
 *   Ubuntu 20.10
 *   RockyLinux 8.4
 *   CentOS 8.3
