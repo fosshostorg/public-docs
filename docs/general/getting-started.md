@@ -4,10 +4,8 @@ Fosshost provides several free cloud computing / hosting services to the free an
 ## Production Services
 Production services are services that we allow you to apply for via our [application form](https://fosshost.org/apply). In other words, they have been tested and verified to be suitable for live and production use. These are:
 
-- x86 Virtual Private Server;
-- AArch64 Virtual Private Server;
+- [x86 Virtual Private Server](/products-and-services/virtual-private-server/);
+- [AArch64 Virtual Private Server](/products-and-services/aarch64-virtual-private-server/);
 - Domain Name Services / DNS;
-- Mirrors-as-a-Service (available for package mirrors, operating systems, repositories, documentation, static assets, etc.);
-
-You can browse on the left-hand navigation bar through each of the above services in more detail.
+- [Mirrors-as-a-Service (available for package mirrors, operating systems, repositories, documentation, static assets, etc.)](/products-and-services/mirrors-as-a-service/);
 
