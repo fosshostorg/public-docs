@@ -3,7 +3,7 @@
 
 We have been fortunate enough to receive a large donation of 50+ Arm64 (v8) eMAG 32core machines from Ampere Computing. This hardware is now live, and we are accepting applications via our [application form](https://fosshost.org/apply). 
 
-Initially, the first batch of Arm-based hardware will be for virtualization purposes, rather than “full dedicated” access to the hardware. However, once our second batch becomes available, we will consider how we can provide dedicated provisioning. We intend to release the second batch within the US, and further details will be communicated once available. 
+Currently, our Arm-based hardware is for virtualization purposes, rather than “full dedicated” access to the hardware. 
 
 ## What to do after getting approved for the AArch64 VPS?
 
@@ -26,9 +26,13 @@ Speaking of VPS plans, you can choose anything that suits you if it fits within 
 
 ![](/assets/aarch64-choosing-vm-specs.png)
 
-Available VPS plans
+## Available VPS plans
 
-You can also choose your desired hostname for your VPS accessing region (currently available only in Boston, MA, and Maidstone, UK).
+You can also choose your desired hostname for your VPS accessing region. 
+It's available in:
+- Boston, MA
+- Maidstone, UK
+- Ogden, UT
 
 After creating and provisioning is done, you will be presented with information on how to access your instance.
 
