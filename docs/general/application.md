@@ -35,7 +35,7 @@ Whilst there are many projects we can and do help, there are many others we cann
 - Ad-revenue scripts
 - Political or religious topics
 - Bitcoin mining, nodes, or anything remotely connected to digital currencies
-Websites that condone, advertise, publish or recirculate unfriendly or potentially harmful information
+- Websites that condone, advertise, publish or recirculate unfriendly or potentially harmful information
 - Commercial / and or e-commerce websites
 ## Application Form Guidance
 We have put together a guide to help those looking to apply. This covers frequently asked questions and general guidance. We look at applications fairly and holistically to form an opinion. We always try to say yes, but ignorance and not reading the application guidance page will only delay your application and result in us taking a more formal review of it.
