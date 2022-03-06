@@ -3,8 +3,6 @@
 
 It is important to lock down SSH so that it can be only accessed using a public SSH key. If you don't know how to create an SSH key, take a look [here](/howtos/how-to-create-ssh-key) to learn how to create one.
 
-When we provide handover details of your instance, we will whenever possible, set it up so that, when you connect for the first time, you connect using your key rather than a plain password. This is possible by using automated builds for the VMs, which offers a consistent baseline image and configuration.
-
 It is your responsibility to modify your SSH configuration by removing plain password authentication, changing the SSH port to lock it down and disabling root login. We do not recommend leaving plain password authentication open because it will be targeted with attacks to force entry. If you absolutely and cannot use public keys, you must consider using fail2ban or a similar tool to limit password guesses.
 
 Typically, most Linux/\*BSD operating systems will all have a sshd\_config and, although there are some minor variations, they are typically the same for a standard distribution. Please note that we cannot capture and produce docs for each operating system, so you must use the following as a guide only. If you need specific assistance with a more exotic operating system, please contact us.

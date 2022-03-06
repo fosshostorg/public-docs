@@ -1,17 +1,19 @@
-# How to manage your x86 virtual instance
+# How to manage your aarch64 virtual instance
 
-You can complete several tasks on your VM using the Proxmox interface. These include:
+If you have requested Proxmox access to manage your virtual instance, well done! You are now on your way to having complete control over your virtual instance.
 
-- [x] Access your virtual instance using a full SSH console (this allows direct access into the instance — perfect if you have locked yourself out, initial installs, etc.)
-- [x] Reboot, shutdown, pause, and reinstall your virtual instance
-- [x] View metrics and performance history (CPU, memory, network, storage, IOPS Delay, etc.)
-- [x] View audit history of your virtual instance
-- [x] Mount ISOs and adapters
+You can complete several tasks using the Proxmox interface. These include:
+
+*   Access your virtual instance using a full SSH console (this allows direct access into the instance — perfect if you have locked yourself out, initial installs, etc.)
+*   Reboot, shutdown, pause, and reinstall your virtual instance
+*   View metrics and performance history (CPU, memory, network, storage, IOPS Delay, etc.)
+*   View audit history of your virtual instance
+*   Mount ISOs and adapters
 
 ## How to access the Proxmox Interface
 
 
-We currently operate more than 15 nodes; you will know your node from your handover email. Below is an example of a node address we operate:
+We currently operate ten nodes; you will know your node from your handover email or instance hostname. Below is an example of a node address we operate:
 
 > https://pve01-odg1.central.fossho.st
 
@@ -35,8 +37,8 @@ Current nodes:
 *   pve01-dfw1 (legacy node 9, 10, and 12)
 *   pve01-pdx1 (legacy node11)
 *   pve02-dfw1
-*   pve01-odg1 (does not match airport code)
-*   pve02-odg1 (does not match airport code)
+*   pve01-odg1
+*   pve02-odg1
 *   pve01-sin1
 
 To achieve a more secure experience, Fosshost uses Multi-Factor Authentication (MFA). We provide it through [Authelia](https://github.com/authelia/authelia). You can use any MFA client on your device to validate your login.
