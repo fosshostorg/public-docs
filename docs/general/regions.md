@@ -5,6 +5,7 @@ The Fosshost and AArch64 infrastructure operates from multiple regions. These lo
 - USA
 - Canada
 - Netherlands
+- Singapore
 
 Depending on availability, current capacity we may not show all regions during the application process.  Please keep checking the application form for when new regions become available.  We are always adding new regions and releasing new capacity.
 

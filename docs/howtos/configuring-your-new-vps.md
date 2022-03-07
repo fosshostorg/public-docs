@@ -12,4 +12,4 @@ There are some important considerations when building your VPS, which we have de
 *   Support is available if you get stuck;
 *   We do not provide hardware firewalling, however, our carriers provide basic and limited DDoS protection;
 *   You must configure SSH and [secure](/howtos/how-to-lock-down-ssh) it as this is NOT our responsibility. Again, help is available if you get stuck;
-*   If your allocated resources, once your server is built, does not appear to be adequate, please raise a ticket and we will see what we can do.
+*   If your allocated resources, once your server is built, do not appear to be adequate, please raise a ticket and we will see what we can do.

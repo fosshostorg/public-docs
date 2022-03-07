@@ -1,7 +1,7 @@
 # How to create an SSH public key
 
 
-**For security reasons we only handover VMs using** **an** **SSH public key configuration**, so you will need to set up an SSH key before you apply. This is a much more secure and modern alternative to connecting using a password.
+**For security reasons we only hand over VMs using** **an** **SSH public key configuration**, so you will need to set up an SSH key before you apply. This is a much more secure and modern alternative to connecting using a password.
 
 Follow one of the instructions listed below to create an SSH key, according to your needs.
 
