@@ -16,4 +16,4 @@ Our volunteering program is beneficial for students and apprentices wanting to l
 
 Most of our volunteer opportunities are the ones you would expect from running a global infrastructure: coding, systems administration, support, and network engineering. This is, however, only part of what our volunteering team does. We also welcome marketing, writing, community management, systems security, and any other skills you have that can be of use for us to grow.
 
-No matter your talents, please [contact us](https://fosshost.org/contact) if you feel you can help us evolve and support the Free and Open-Source Software ecosystem and want to contribute to this fantastic community.
+No matter your talents, please [contact us](https://fosshost.org/contact) if you feel you can help us evolve and support the Free and Open-Source Software ecosystem and want to contribute to this fantastic community. We will try our best to fit your skill set with our needs.
