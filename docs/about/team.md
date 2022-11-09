@@ -47,8 +47,6 @@ Capability domain owners (CDO) are subject matter experts.  They are regular an
 
 ### Seth Knights (he/him), CDO - UX
 
-### Jordan Songer (he/him), CDO - Monitoring
-
 ### Ryan Knipe (he/him), CDO - Applications
 
 ### Carlos Eduardo (he/him), CDO - DevSecOps
