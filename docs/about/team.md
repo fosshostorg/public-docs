@@ -20,23 +20,12 @@ Thomas is the Chief Executive Officer and Founder at Fosshost. He founded the pr
 
 Corwin is the Chief Operating Officer, with overall responsibility for our day-to-day operations. Corwin lives in Minneapolis, USA, and father of five children. He also volunteers for Science Fiction related non-profits and conventions, The Free Software Directory, GNU Savannah, GNU Emacs, and [EmacsConf](https://emacsconf.org/). Corwin, along with several life-long friends, is creating an RPG engine for GNU Emacs in his free time. Corwin likes Emacs.
 
-### Nikola Stojkovic, Chairman and Secretary (he/him)
-
-Nikola chairs our board and serves as our secretary of record. A full-time dad, husband, and software developer, Nikola focuses on web technologies and systems' backend. He's an open-source enthusiast whose love for Linux is visible from space. He enjoys travelling, hiking, HAM radio, and always has _a few_ side-projects running.
-
-### Jonathon Fernyhough, Executive Director (he/him)
-
-Jonathon is our Executive Director. Whilst his role is not hands-on, he does regularly engage with projects, both new and existing. Jonathon brings with him a wealth of experience coordinating and managing open source communities.
 
 ## Senior Operational Leads
 
 Fosshost Senior Operational Leads report directly into Corwin Brust (COO) and will typically have a smaller team that report directly into them such as Capability Domain Owners. Overall, Operational Leads form part of the Senior Leadership Team.  The Operational Leads play an important role in the day to day operations of our organisation. 
 
 ### Chris Johnson (he/him), Chief Technology Officer
-
-### Nate Sales (he/him), Director of Infrastructure
-
-### Hampton Moore (he/him), Senior Techops Lead
 
 ### Alyx Wolcott (he/him), Chief People Officer
 
@@ -56,15 +45,11 @@ Capability domain owners (CDO) are subject matter experts.  They are regular an
 
 ### Alex Vanhecke (he/him), CDO - Shared Hosting
 
-### Hampton Moore (he/him), CDO - IaaS
-
 ### Seth Knights (he/him), CDO - UX
 
 ### Jordan Songer (he/him), CDO - Monitoring
 
 ### Ryan Knipe (he/him), CDO - Applications
-
-### Andrew Asciutto (he/him), CDO - Network
 
 ### Carlos Eduardo (he/him), CDO - DevSecOps
 
